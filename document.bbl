@@ -1,0 +1,370 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{blizzard_entertainment_inc_don_2016}{artwork}{}
+    \name{author}{1}{}{%
+      {{hash=B}{%
+         family={{Blizzard Entertainment, Inc}},
+         familyi={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{B1}
+    \strng{fullhash}{B1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{Don Han-Cho}
+    \verb{url}
+    \verb https://blizzard.gamespress.com/Mean-Streets-of-Gadgetzan-Press-Kit
+    \endverb
+    \field{day}{01}
+    \field{month}{12}
+    \field{year}{2016}
+  \endentry
+
+  \entry{blizzard_entertainment_inc_mean_2016}{artwork}{}
+    \name{author}{1}{}{%
+      {{hash=B}{%
+         family={{Blizzard Entertainment, Inc}},
+         familyi={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{B1}
+    \strng{fullhash}{B1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{Mean Streets Key Art}
+    \verb{url}
+    \verb https://blizzard.gamespress.com/Mean-Streets-of-Gadgetzan-Press-Kit
+    \endverb
+    \field{day}{04}
+    \field{month}{11}
+    \field{year}{2016}
+  \endentry
+
+  \entry{blue_mammoth_games_brawlhalla_2017}{software}{}
+    \name{author}{1}{}{%
+      {{hash=B}{%
+         family={{Blue Mammoth Games}},
+         familyi={B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Ubisoft}%
+    }
+    \strng{namehash}{B2}
+    \strng{fullhash}{B2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{Brawlhalla}
+    \field{version}{3.56}
+    \field{day}{17}
+    \field{month}{10}
+    \field{year}{2017}
+  \endentry
+
+  \entry{fornace_rivals_2017}{software}{}
+    \name{author}{1}{}{%
+      {{hash=FD}{%
+         family={Fornace},
+         familyi={F\bibinitperiod},
+         given={Dan},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FD1}
+    \strng{fullhash}{FD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{title}{Rivals of Aether}
+    \field{version}{1.4.20}
+    \field{day}{28}
+    \field{month}{03}
+    \field{year}{2017}
+  \endentry
+
+  \entry{iwanaga_hearthstone_2015}{artwork}{}
+    \name{author}{1}{}{%
+      {{hash=IH}{%
+         family={Iwanaga},
+         familyi={I\bibinitperiod},
+         given={Hendry},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{IH1}
+    \strng{fullhash}{IH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{I}
+    \field{sortinithash}{I}
+    \field{title}{Hearthstone Challenge "Zapping Bird"}
+    \verb{url}
+    \verb https://cdna.artstation.com/p/assets/images/images/000/417/458/large/
+    \verb hendry-iwanaga-gnome-portrait-flat-lowres.jpg?1443931020
+    \endverb
+    \field{year}{2015}
+  \endentry
+
+  \entry{lee_haxs_2016}{online}{}
+    \name{author}{1}{}{%
+      {{hash=LD}{%
+         family={Lee},
+         familyi={L\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LD1}
+    \strng{fullhash}{LD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{titleaddon}{{ESPN}}
+    \field{title}{Hax's retirement, and the uncertain world of esports
+  injuries}
+    \verb{url}
+    \verb https://www.espn.com/esports/story/_/id/15428951/hax-retirement-why-i
+    \verb njuries-smash-bros-melee-esports-problem-needs-solved
+    \endverb
+    \field{day}{29}
+    \field{month}{04}
+    \field{year}{2016}
+  \endentry
+
+  \entry{nintendo_ir_nodate}{online}{}
+    \name{author}{1}{}{%
+      {{hash=N}{%
+         family={Nintendo},
+         familyi={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{N1}
+    \strng{fullhash}{N1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{titleaddon}{Nintendo Investor Relations Information}
+    \field{title}{{IR} Information: Sales Data - Top Selling Title Sales Units}
+    \verb{url}
+    \verb https://www.nintendo.co.jp/ir/en/finance/software/index.html
+    \endverb
+  \endentry
+
+  \entry{orland_valve_2018}{online}{}
+    \name{author}{1}{}{%
+      {{hash=OK}{%
+         family={Orland},
+         familyi={O\bibinitperiod},
+         given={Kyle},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{OK1}
+    \strng{fullhash}{OK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \field{titleaddon}{Ars Technica}
+    \field{title}{Valve leaks Steam game player counts; we have the numbers}
+    \verb{url}
+    \verb https://arstechnica.com/gaming/2018/07/steam-data-leak-reveals-precis
+    \verb e-player-count-for-thousands-of-games/
+    \endverb
+    \field{day}{06}
+    \field{month}{07}
+    \field{year}{2018}
+  \endentry
+
+  \entry{ribeiro_cesar_2019}{artwork}{}
+    \name{author}{1}{}{%
+      {{hash=RM}{%
+         family={Ribeiro},
+         familyi={R\bibinitperiod},
+         given={Murillo},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RM1}
+    \strng{fullhash}{RM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{title}{Cesar, The Mentor}
+    \verb{url}
+    \verb https://cdnb.artstation.com/p/assets/images/images/018/856/219/large/
+    \verb murillo-ribeiro-cesao.jpg?1560978845
+    \endverb
+    \field{month}{07}
+    \field{year}{2019}
+  \endentry
+
+  \entry{sakurai_super_2001}{software}{}
+    \name{author}{1}{}{%
+      {{hash=SM}{%
+         family={Sakurai},
+         familyi={S\bibinitperiod},
+         given={Masahiro},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Nintendo}%
+    }
+    \strng{namehash}{SM1}
+    \strng{fullhash}{SM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{Super Smash Bros. Melee}
+    \field{version}{1.02}
+    \field{day}{21}
+    \field{month}{11}
+    \field{year}{2001}
+  \endentry
+
+  \entry{sakurai_super_2018}{software}{}
+    \name{author}{1}{}{%
+      {{hash=SM}{%
+         family={Sakurai},
+         familyi={S\bibinitperiod},
+         given={Masahiro},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Nintendo}%
+    }
+    \strng{namehash}{SM1}
+    \strng{fullhash}{SM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{Super Smash Bros. Ultimate}
+    \field{version}{7.0}
+    \field{day}{07}
+    \field{month}{12}
+    \field{year}{2018}
+  \endentry
+
+  \entry{setiawan_mad_2015}{artwork}{}
+    \name{author}{1}{}{%
+      {{hash=SL}{%
+         family={Setiawan},
+         familyi={S\bibinitperiod},
+         given={Lie},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SL1}
+    \strng{fullhash}{SL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{Mad Goblin Technician}
+    \verb{url}
+    \verb https://cdnb.artstation.com/p/assets/images/images/000/342/727/large/
+    \verb lie-setiawan-madgoblin-liesetiawanfb.jpg?1418005461
+    \endverb
+    \field{year}{2015}
+  \endentry
+
+  \entry{stovbunskyi_university_2019}{artwork}{}
+    \name{author}{1}{}{%
+      {{hash=SV}{%
+         family={Stovbunskyi},
+         familyi={S\bibinitperiod},
+         given={Vadym},
+         giveni={V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SV1}
+    \strng{fullhash}{SV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{University of Wizardry and Applied Magics}
+    \verb{url}
+    \verb https://cdnb.artstation.com/p/assets/images/images/020/518/835/large/
+    \verb vadim-stovbunsky-wschool-small.jpg?1568092064
+    \endverb
+    \field{month}{09}
+    \field{year}{2019}
+  \endentry
+
+  \entry{valve_corporation_steam_nodate}{online}{}
+    \name{author}{1}{}{%
+      {{hash=V}{%
+         family={{Valve Corporation}},
+         familyi={V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{V1}
+    \strng{fullhash}{V1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{titleaddon}{Steam Hardware and Software Survey}
+    \field{title}{Steam Hardware and Software Survey}
+    \verb{url}
+    \verb https://store.steampowered.com/hwsurvey
+    \endverb
+  \endentry
+
+  \entry{celikovic_book_2019}{artwork}{}
+    \name{author}{1}{}{%
+      {{hash=vM}{%
+         family={\v{C}elikovi\'{c}},
+         familyi={v\bibinitperiod},
+         given={Milica},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{vM1}
+    \strng{fullhash}{vM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{title}{Book Wyrm}
+    \verb{url}
+    \verb https://cdnb.artstation.com/p/assets/images/images/022/247/781/large/
+    \verb milica-celikovic-35-moje-umanjeno.jpg?1574693755
+    \endverb
+    \field{month}{12}
+    \field{year}{2019}
+  \endentry
+\enddatalist
+\endinput

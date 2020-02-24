@@ -185,10 +185,6 @@ As a free and open-source community-driven game, the primary revenue source for 
 
 The intellectual property of the game can be utilized to generate additional revenue through sales of clothing, figurines and other merchandise. As the game for the community grows, the cultural aspects (such as memes or jokes) can be applied to the merchandising. The game's soundtrack can be available on [Bandcamp][bandcamp-link].
 
-### Sponsorships
-
-Companies or individuals can sponsor OpenCombat through single or sustained contributions. By doing so, billboards, posters and other in-game advertising materials will have their brands on them adapted for the style of the game. For example, if Pepsi were to sponsor OpenCombat, there may be a billboard in the background of a stage that shows an advertisement for Pepsi with an NPC on it.
-
 ### Community eSports Drives
 
 During large eSports events for platform fighting games, such as Genesis and EVO, donation drives can be launched to encourage players to contribute. At these events, the donations can also serve as a way of increasing the prize pool for participants.
@@ -378,7 +374,7 @@ Large
 
 ##### Description
 
-Equipped with the largest armor and weaponry they could find, these combatants pride themselves on their ability to withstand damage. Their speed is the slowest of all the combatants but they also do the most damage with their massive strikes. Their lack of dexterity leaves them vulnerable to grappling opponents but their armor makes them resiliant against small and fast foes.
+Equipped with the largest armor and weaponry they could find, these combatants pride themselves on their ability to withstand damage. Their speed is the slowest of all the combatants but they also do the most damage with their massive strikes. Their lack of dexterity leaves them vulnerable to grappling opponents but their armor makes them resilient against small and fast foes.
 
 ### Races and Body Sizes
 
@@ -592,7 +588,7 @@ Male
 
 #### Background
 
-Born into the the wealthy Peels family, Eugene inherited the Peels Corportation empire after his parents mysteriously died in an accident. Quiet and studious, his education that the best schools in Prosperity prepared him well for the task of owning the entertainment monopoly his parents left behind. He is also known for his extension philanthropy which prominent journalists in the city have accused of being a front for bribery and money laundering schemes. Like his parents and all the other monopolists in Prosperity, Eugene's only goal is to become the richest man in the world and he will stop at nothing to achieve that.
+Born into the the wealthy Peels family, Eugene inherited the Peels Corporation empire after his parents mysteriously died in an accident. Quiet and studious, his education that the best schools in Prosperity prepared him well for the task of owning the entertainment monopoly his parents left behind. He is also known for his extension philanthropy which prominent journalists in the city have accused of being a front for bribery and money laundering schemes. Like his parents and all the other monopolists in Prosperity, Eugene's only goal is to become the richest man in the world and he will stop at nothing to achieve that.
 
 #### Role
 
@@ -780,11 +776,6 @@ Stovbunskyi, Vadym. “ArtStation - University of Wizardry and Applied Magics - 
 [bandcamp-link]: https://bandcamp.com
 [godot-link]: https://godotengine.org
 [espn-hax-injury]: https://www.espn.com/esports/story/_/id/15428951/hax-retirement-why-injuries-smash-bros-melee-esports-problem-needs-solved
-[brawlhalla-gameplay]: images/brawlhalla-gameplay.gif
-[melee-gameplay]: images/melee-gameplay.gif
-[ultimate-gameplay]: images/ultimate-gameplay.gif
-[rivals-gameplay]: images/rivals-gameplay.gif
-[setting-cityscape]: images/setting-cityscape.jpg
 [setting-populated]: images/setting-populated.jpg
 [setting-school]: images/setting-school.jpg
 [characters-civilian]: images/characters-civilian.jpg

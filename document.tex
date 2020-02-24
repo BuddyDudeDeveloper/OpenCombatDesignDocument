@@ -1,0 +1,25 @@
+\documentclass[11pt, letterpaper]{report}
+
+\usepackage[margin=0.75in]{geometry}
+\usepackage[backend=bibtex, bibstyle=authortitle, citestyle=verbose, autocite=footnote]{biblatex}
+\usepackage{graphicx}
+
+\renewcommand{\familydefault}{\sfdefault}
+
+\title{OpenCombat Design Document}
+\author{Devon Ducharme}
+\date{Savannah College of Art and Design - ITGM 706 01 - Winter 2020}
+\bibliography{bibliography} 
+
+
+\begin{document}
+    \maketitle
+    \tableofcontents
+    \input{chapters/01-overview.tex}
+    \input{chapters/02-intellectual-property.tex}
+    \input{chapters/03-mechanics.tex}
+    \input{chapters/04-interface.tex}
+    \input{chapters/05-stages.tex}
+    \input{chapters/06-revenue.tex}
+    \printbibliography
+\end{document}
