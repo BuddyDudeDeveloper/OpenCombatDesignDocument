@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.2.7)  23 FEB 2020 17:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.2.7)  24 FEB 2020 08:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -525,13 +525,13 @@ Chapter 3.
 <images/flow-match.png, id=102, 548.0475pt x 914.41624pt>
 File: images/flow-match.png Graphic file (type png)
 <use images/flow-match.png>
-Package pdftex.def Info: images/flow-match.png  used on input line 187.
+Package pdftex.def Info: images/flow-match.png  used on input line 188.
 (pdftex.def)             Requested size: 252.94499pt x 422.04582pt.
  [25 </home/deyvahn/Documents/repos/game-design-document-opencombat/images/flow-match.png>]
 <images/flow-menu.png, id=107, 1085.05376pt x 720.6925pt>
 File: images/flow-menu.png Graphic file (type png)
 <use images/flow-menu.png>
-Package pdftex.def Info: images/flow-menu.png  used on input line 197.
+Package pdftex.def Info: images/flow-menu.png  used on input line 198.
 (pdftex.def)             Requested size: 379.4175pt x 252.00423pt.
 ) (/home/deyvahn/Documents/repos/game-design-document-opencombat/chapters/04-interface.tex [26 </home/deyvahn/Documents/repos/game-design-document-opencombat/images/flow-menu.png>]
 Chapter 4.
@@ -618,7 +618,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  50i,8n,65p,1029b,1941s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on /home/deyvahn/Documents/repos/game-design-document-opencombat/document.pdf (31 pages, 21227764 bytes).
+Output written on /home/deyvahn/Documents/repos/game-design-document-opencombat/document.pdf (31 pages, 21227771 bytes).
 PDF statistics:
  166 PDF objects out of 1000 (max. 8388607)
  107 compressed objects within 2 object streams
