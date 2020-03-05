@@ -6,3 +6,7 @@
 *.bcf
 *.fdb_latexmk
 *.log
+*.bbl
+*.blg
+*.fls
+*.toc
