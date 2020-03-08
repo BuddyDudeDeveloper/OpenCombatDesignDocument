@@ -6,7 +6,11 @@
 
 \paragraph{} At the core of OpenCombat is the players and their experiences inside and outside the game. OpenCombat is free and all subsequent updates will also be free requiring no monthly subscriptions or purchases to acquire new content. Since the game is open source, players can create plugins or take part in helping to add new features, fix bugs or balance gameplay. One of the essential experiences of fighting games is coming together with others and playing multiplayer locally; players can use the in-game community organizing tool to host or attend events in their area.
 
-\pagebreak
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=1\linewidth]{images/setting-populated.jpg}
+    \caption{Mean Streets Key Art by Blizzard Entertainment, Inc.\nocite{blizzard_entertainment_inc_mean_2016}}
+\end{figure}
 
 \begin{figure}[h!]
     \centering
@@ -286,6 +290,12 @@ Directional influence (DI) is the ability for players to slightly change their t
 \paragraph{} The community organizing tool is designed for every type of user from the college sophomore looking to have some friends over to the tournament organizer preparing for a large event. Organizers can post information about their event, track attendance, setup brackets and quickly communicate with all parties involved to coordinate without needing social media or external services. The average player will find the community organizing tool to be a helpful way to plan ahead for social gatherings as well as find local events to play at. To encourage players to come together and plan community events, player profiles will have a community level where experience is gained from playing matches at community events, hosting events and being commended by your fellow players for sportsmanship, teamwork, positivity, etc.
 
 \paragraph{} The community as a whole also shares an experience pool called the community level. Separate from each player's individual level, the community level is a reflection of the player bases' activities; the community earns experience by playing matches, attending real-world events and donating to the studio. When updates are released, the community will have to reach certain experience point goals in order to unlock the content for everyone. For example, new costumes for characters may require the community level to be $\frac{1}{3}$ of the way to the next level while a new playable class will require the community to reach the next level. The community level will always be capped to one additional level per update.
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.35\linewidth]{images/characters-dragon.jpg}
+    \caption{Book Wyrm by Milica \v{C}elikovi\'{c}.\nocite{celikovic_book_2019}}
+\end{figure}
 
 \pagebreak
 
@@ -760,17 +770,14 @@ Directional influence (DI) is the ability for players to slightly change their t
     \end{tabular}
 \end{table}
 
+\pagebreak
+
 \section{Flow}
 
 \subsection{Match}
 
 \paragraph{} Players who want to play a match start by choosing which rules they want to use. From there, they pick the stage first so another player cannot intentionally pick a stage their opponent's character is weaker on. Players will then select which character they want to use and start the match. Combat will largely consist of players blocking, dodging and attempting to find openings to exploit. If only one player remains with more than 0 HP or only one player did not get knocked out of the arena, they win the round. This will repeat until a player has won the majority of rounds. After that, players can change any of their previous selections, rematch or quit.
 
-\begin{figure}[h!]
-    \centering
-    \includegraphics[width=.75\linewidth]{images/flow-match.png}
-    \caption{The flow of the match from choosing the rules to choosing what happens when the set ends.}
-\end{figure}
 
 \subsection{State Machine}
 
@@ -778,6 +785,90 @@ Directional influence (DI) is the ability for players to slightly change their t
 
 \begin{figure}[h!]
     \centering
+    \includegraphics[width=0.5\linewidth]{images/characters-goblin.jpg}
+    \caption{Mad Goblin Technician by Lie Setiawan.\nocite{setiawan_mad_2015}}
+\end{figure}
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=.75\linewidth]{images/flow-match.png}
+    \caption{The flow of the match from choosing the rules to choosing what happens when the set ends.}
+\end{figure}
+
+\pagebreak
+
+\begin{figure}[h!]
+    \centering
     \includegraphics[width=1\linewidth]{images/flow-menu.png}
     \caption{The flow of the state machine and how players can navigate the menus.}
+\end{figure}
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.3\linewidth]{images/characters-balance.png}
+    \caption{Don Han-Cho by Blizzard Entertainment, Inc.\nocite{blizzard_entertainment_inc_don_2016}}
+\end{figure}
+
+\pagebreak
+
+\section{Stages}
+
+\paragraph{} OpenCombat has 5 stage layouts players can choose from. Each layout has advantages and disadvantages for certain classes but is selected before players pick their characters. All matches take place in the arena built by Mr. Peels but the aesthetic of the stage varies based on the time of day.
+
+\subsection{No Platforms}
+
+\paragraph{} This is the most basic stage with no platforms other than the stage itself. This layout has the most open space for combatants who want to move around freely or dominate a singular plane of combat. Combatants who can more effectively utilize platforms have difficulties on this layout but zoners and aerial combatants thrive here. Each player starts evenly spaced along the stage; if a player starts in the middle, it is advised that they find a way to not be trapped.
+
+\begin{figure}[h!]
+    \centering
+    \fbox{\includegraphics[width=1\linewidth]{images/levels-flat.png}}
+    \caption{The most basic stage layout with no platforms and a lot of space to move around in.}
+\end{figure}
+
+\pagebreak
+
+\subsection{Singular Platform}
+
+\paragraph{} This layout features the basic flat stage plus one additional extended platform shortly above. Players can use the platform to chase their opponents in the air, continue a combo more easily or put themselves in a more advantageous position. Aerial characters excel at using this layout to juggle opponents around and slower characters with larger hitboxes on their attacks can trap their opponents on the platform easily. All players start on the stage itself, though, so it is advised to take control of the platform quickly if necessary.
+
+\begin{figure}[h!]
+    \centering
+    \fbox{\includegraphics[width=1\linewidth]{images/levels-single.png}}
+    \caption{The most notable component of this layout is the extended platform in the middle of the map that be used for positioning, juggling and set-ups.}
+\end{figure}
+
+\pagebreak
+
+\subsection{Dual Platforms}
+
+\paragraph{} Two platforms extend pass the edges of the stage on this layout with the middle being open. Fighters who want to knock their opponents out of the arena excel on this layout while slower characters struggle to navigate the openings the platforms create. The first two players start on the platforms, making 1v1 matches a scramble to control the center of the stage; matches with more than 2 players have the 3rd and 4th players starting on the stage itself.
+
+\begin{figure}[h!]
+    \centering
+    \fbox{\includegraphics[width=1\linewidth]{images/levels-duo.png}}
+    \caption{This layout has two platforms that extend off the edge of the stage. This is ideal for combatants who want to ring-out their opponents.}
+\end{figure}
+
+\pagebreak
+
+\subsection{Triple Platforms}
+
+\paragraph{} Players familiar with the Super Smash Bros. will be familiar with this layout which is inspired by the Battlefield stage featured in every game in the franchise since Melee. This stage traditional favors faster characters are the platforms allow them to close the distance between aerial and non-aerial opponents. Each player starts on either their own platform or the stage itself.
+
+\begin{figure}[h!]
+    \centering
+    \fbox{\includegraphics[width=1\linewidth]{images/levels-tri.png}}
+    \caption{This layout features 3 small platforms in a triangular pattern above the stage.}
+\end{figure}
+
+\pagebreak
+
+\subsection{Dual-Triple Combination}
+
+\paragraph{} For some additional variety, players can also choose to fight on a stage that takes its layout from the singular and duo platform variants. Similar to the triple platform layout, this features three platforms in a triangular pattern but the middle platform is extended and the side platforms are on the edge of the stage. Combatants that can take advantage of mixed layouts like aerial or fast characters benefit the most from a layout like this. 
+
+\begin{figure}[h!]
+    \centering
+    \fbox{\includegraphics[width=1\linewidth]{images/levels-combo.png}}
+    \caption{Both the extended platform from the singular variant and the edge platforms from the dual variant are included in this layout.}
 \end{figure}
