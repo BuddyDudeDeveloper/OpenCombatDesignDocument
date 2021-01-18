@@ -2,23 +2,7 @@
 
 <img alt="Latex" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Antu_texmaker.svg/512px-Antu_texmaker.svg.png" />
 
-<br />
-
 ![](/images/OCGD1024_1.png)
-
-## Table of Contents
-- [OpenCombat Design Document](#opencombat-design-document)
-  - [Table of Contents](#table-of-contents)
-  - [Background](#background)
-  - [Process](#process)
-    - [Setting Up LaTeX](#setting-up-latex)
-    - [Defining the Scope](#defining-the-scope)
-    - [Creating the World](#creating-the-world)
-    - [Designing the Mechanics](#designing-the-mechanics)
-    - [Generating Revenue](#generating-revenue)
-  - [Reflections](#reflections)
-
-
 
 ## Background
 
